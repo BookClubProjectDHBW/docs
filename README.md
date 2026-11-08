@@ -3,4 +3,4 @@
 Hier liegen:
 - Präsentation
 - Portfolio
-- Ausgabe Alexa
+- Alexa Intents
